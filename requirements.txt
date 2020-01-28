@@ -118,7 +118,7 @@ soupsieve==1.9.3
 sqlparse==0.3.0
 tensorboard==1.14.0
 tensorflow==1.14.0
-tensorflow-cpu==0.0.0
+tensorflow-cpu==2.1.0
 tensorflow-estimator==1.14.0
 tensorflow-gpu==1.14.0
 termcolor==1.1.0
