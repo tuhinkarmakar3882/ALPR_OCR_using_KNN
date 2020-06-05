@@ -24,7 +24,7 @@ Cython==0.29.13
 DateTime==4.3
 decorator==4.4.0
 defusedxml==0.6.0
-Django==2.2.4
+Django==2.2.13
 DocumentTemplate==3.1b2
 entrypoints==0.3
 ExtensionClass==4.4
