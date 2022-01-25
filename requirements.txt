@@ -120,7 +120,7 @@ tensorboard==1.14.0
 tensorflow==1.15.4
 tensorflow-cpu==2.1.2
 tensorflow-estimator==1.14.0
-tensorflow-gpu==1.15.4
+tensorflow-gpu==2.5.2
 termcolor==1.1.0
 terminado==0.8.2
 tesseract==0.1.3
